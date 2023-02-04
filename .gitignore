@@ -1,0 +1,8 @@
+#Ignore freecad backup files
+*.FCStd1
+#Ignore exported stls
+*.stl
+#Ignore exported gcode
+*.gcode
+#Ignore exported resin files
+*.ctb
